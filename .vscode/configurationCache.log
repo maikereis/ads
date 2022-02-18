@@ -1,0 +1,1 @@
+{"buildTargets":["clean","data","help","install-pip-tools","pip-compile","requirements","sync-env"],"launchTargets":[],"customConfigurationProvider":{"workspaceBrowse":{"browsePath":[],"compilerArgs":[]},"fileIndex":[]}}
